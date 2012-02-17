@@ -86,8 +86,8 @@
 						<th class="first" style="width:15%;">Date</th>
 						<th style="width:15%;">Category</th>
 						<th style="width:50%;">Description</th>
-						<th style="width:10%;" class="tar">Rate</th>
 						<th style="width:10%;" class="tar">Hours</th>
+						<th style="width:10%;" class="tar">Rate</th>
 					</tr>
 				</thead>
 				<tbody>	
